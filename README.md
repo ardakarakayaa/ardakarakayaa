@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arda Karakaya</h1>
-<h3 align="center">A Software Engineering Student from Turkey.</h3>
+<h3 align="center">A Software Engineering Student from Türkiye.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardakarakayaa&label=Profile%20views&color=0e75b6&style=flat" alt="ardakarakayaa" /> </p>
 
